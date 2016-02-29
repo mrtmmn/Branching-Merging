@@ -6,6 +6,7 @@ import android.os.Bundle;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
+    ArrayList<Actor> mMoneyback = new ArrayList<Actor>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

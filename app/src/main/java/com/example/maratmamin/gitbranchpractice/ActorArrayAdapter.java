@@ -16,8 +16,6 @@ public class ActorArrayAdapter extends BaseAdapter {
     String[] results;
     Context context;
 
-    private static LayoutInflater inflater`
-
     @Override
     public int getCount() {
         return 0;
